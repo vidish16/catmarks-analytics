@@ -1,12 +1,12 @@
 # CAT Cutoffs - Marks vs Percentile Visualization
 
-An interactive web application to visualize CAT (Common Admission Test) examination marks vs percentile data from 2017 to 2023. This tool helps students and aspirants understand the relationship between raw scores and percentiles across different years and exam sections.
+An interactive web application to visualize CAT (Common Admission Test) examination marks vs percentile data from 2017 to 2024. This tool helps students and aspirants understand the relationship between raw scores and percentiles across different years and exam sections.
 
 **Note**: The data presented is based on scaled scores and analyses from various coaching institutes and experts, as the IIMs do not officially release this detailed breakdown. These figures can vary slightly depending on the difficulty level of the paper each year.
 
 ## Features
 
-- **Year Selection**: Browse CAT data from 2017 to 2023
+- **Year Selection**: Browse CAT data from 2017 to 2024
 - **Section-wise Analysis**: Analyze performance across different CAT sections:
   - **Overall**: Complete test performance
   - **VARC**: Verbal Ability & Reading Comprehension
@@ -14,7 +14,7 @@ An interactive web application to visualize CAT (Common Admission Test) examinat
   - **QA**: Quantitative Ability
   - **All Sections**: Compare individual sections (VARC, LRDI, QA) on a single chart
 - **Interactive Charts**: Hover over data points for detailed information
-- **Real CAT Data**: Based on actual exam performance analyses from 2017-2023
+- **Real CAT Data**: Based on actual exam performance analyses from 2017-2024
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 - **Real-time Updates**: Charts update dynamically based on user selections
 
