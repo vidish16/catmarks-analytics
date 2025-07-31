@@ -1,0 +1,133 @@
+Year,Data_Type,Slot,Percentile,Overall_Score,VARC_Score,DILR_Score,QA_Score
+2024,Scaled Score,Consolidated,99.9,127,55,50.1,45
+2024,Scaled Score,Consolidated,99.5,103.97,44,41.4,36.5
+2024,Scaled Score,Consolidated,99.0,95.13,40.3,37.8,33
+2024,Scaled Score,Consolidated,98.0,85,36,34,29
+2024,Scaled Score,Consolidated,95.0,70,30,27,22
+2024,Scaled Score,Consolidated,90.0,58,24,22.5,17
+2024,Scaled Score,Consolidated,85.0,49,20.42,19.5,13.7
+2024,Scaled Score,Consolidated,80.0,44,18.2,17,11.6
+2024,Estimated Raw Score,Consolidated,99.0,88.33,39.33,28.00,28.67
+2024,Estimated Raw Score,Consolidated,95.0,66.67,30.00,22.00,21.33
+2024,Estimated Raw Score,Consolidated,90.0,54.67,24.33,18.33,16.33
+2024,Estimated Raw Score,Consolidated,85.0,45.67,21.33,15.33,13.00
+2024,Estimated Raw Score,Consolidated,80.0,39.33,19.00,12.67,11.33
+2024,Estimated Raw Score,Slot 1,99.0,91,40,26,27
+2024,Estimated Raw Score,Slot 2,99.0,86,38,28,28
+2024,Estimated Raw Score,Slot 3,99.0,88,40,30,31
+2024,Estimated Raw Score,Slot 1,95.0,69,31,19,21
+2024,Estimated Raw Score,Slot 2,95.0,66,29,22,21
+2024,Estimated Raw Score,Slot 3,95.0,65,30,25,22
+2024,Estimated Raw Score,Slot 1,90.0,57,25,16,16
+2024,Estimated Raw Score,Slot 2,90.0,54,23,19,16
+2024,Estimated Raw Score,Slot 3,90.0,53,25,20,17
+2024,Estimated Raw Score,Slot 1,85.0,48,22,14,12
+2024,Estimated Raw Score,Slot 2,85.0,45,21,16,12
+2024,Estimated Raw Score,Slot 3,85.0,44,21,16,15
+2024,Estimated Raw Score,Slot 1,80.0,42,20,12,10
+2024,Estimated Raw Score,Slot 2,80.0,39,18,13,11
+2024,Estimated Raw Score,Slot 3,80.0,37,19,13,13
+2023,Scaled Score,Consolidated,99.9,101.26,51.14,36.58,36.40
+2023,Scaled Score,Consolidated,99.5,84.29,44.00,30.99,29.84
+2023,Scaled Score,Consolidated,99.0,76.09,39.77,27.34,26.69
+2023,Scaled Score,Consolidated,98.0,66.68,36,24.5,24.31
+2023,Scaled Score,Consolidated,95.0,54.86,28.73,19.26,18.28
+2023,Scaled Score,Consolidated,90.0,45.58,23.38,15.63,13.63
+2023,Scaled Score,Consolidated,85.0,42.29,20.66,13.01,12
+2023,Scaled Score,Consolidated,80.0,37.68,17.58,11.67,9.20
+2023,Estimated Raw Score,Slot 1,99,80,40,26,26.5
+2023,Estimated Raw Score,Slot 2,99,82.5,41,22.5,27.5
+2023,Estimated Raw Score,Slot 3,99,79,39,23.5,27.5
+2023,Estimated Raw Score,Slot 1,95,55,29,19,21
+2023,Estimated Raw Score,Slot 2,95,57.5,31.5,19,21
+2023,Estimated Raw Score,Slot 3,95,57.5,29,19,19
+2023,Estimated Raw Score,Slot 1,90,46.5,23,16,16
+2023,Estimated Raw Score,Slot 2,90,47,25,14.5,16
+2023,Estimated Raw Score,Slot 3,90,47,24.5,16,16
+2023,Estimated Raw Score,Slot 1,85,40,21,13.5,13
+2023,Estimated Raw Score,Slot 2,85,41.5,21,12.5,13
+2023,Estimated Raw Score,Slot 3,85,40.5,21,13,13
+2023,Estimated Raw Score,Slot 1,80,36,19,11.5,11
+2023,Estimated Raw Score,Slot 2,80,37.5,19,10.5,11
+2023,Estimated Raw Score,Slot 3,80,36.5,19,10.5,10.5
+2022,Scaled Score,Consolidated,99.9,109.9,47,37,47
+2022,Scaled Score,Consolidated,99.5,92.87,43,33,38
+2022,Scaled Score,Consolidated,99.0,83.64,40,30,33
+2022,Scaled Score,Consolidated,98.0,73.88,35,25,29
+2022,Scaled Score,Consolidated,95.0,59.75,28,21,22
+2022,Scaled Score,Consolidated,90.0,48.44,24,18,17
+2022,Scaled Score,Consolidated,85.0,41.32,21,14,15
+2022,Scaled Score,Consolidated,80.0,36.02,17,13,12
+2022,Estimated Raw Score,Slot 1,99.0,98,39,29,37
+2022,Estimated Raw Score,Slot 2,99.0,99,41,31,37
+2022,Estimated Raw Score,Slot 3,99.0,94.5,41,26.5,31.5
+2022,Estimated Raw Score,Slot 1,95.0,71,31,23,29
+2022,Estimated Raw Score,Slot 2,95.0,71,32,23,32
+2022,Estimated Raw Score,Slot 3,95.0,67.5,32,21,24
+2022,Estimated Raw Score,Slot 1,90.0,59,27,19,23
+2022,Estimated Raw Score,Slot 2,90.0,59,28,19,25
+2022,Estimated Raw Score,Slot 3,90.0,56.5,28,17,18
+2022,Estimated Raw Score,Slot 1,85.0,49.5,24,17,19
+2022,Estimated Raw Score,Slot 2,85.0,50,25,17,14
+2022,Estimated Raw Score,Slot 3,85.0,48,25,15,14
+2022,Estimated Raw Score,Slot 1,80.0,44.5,19.5,15,17
+2022,Estimated Raw Score,Slot 2,80.0,44.5,20.5,15,12
+2022,Estimated Raw Score,Slot 3,80.0,42,20.5,13,12
+2021,Estimated Raw Score,Consolidated,99.0,94.17,37.83,30.17,38.83
+2021,Estimated Raw Score,Consolidated,95.0,63.67,29.67,20.00,24.00
+2021,Estimated Raw Score,Consolidated,90.0,51.50,24.67,16.00,20.33
+2021,Estimated Raw Score,Consolidated,85.0,45.17,22.00,14.67,18.33
+2021,Estimated Raw Score,Consolidated,80.0,39.17,20.00,12.00,13.67
+2021,Estimated Raw Score,Slot 1,99.0,97,38,28.5,41
+2021,Estimated Raw Score,Slot 2,99.0,95,38,30.5,40.5
+2021,Estimated Raw Score,Slot 3,99.0,90.5,37.5,31.5,35
+2021,Estimated Raw Score,Slot 1,95.0,60,30,21,25
+2021,Estimated Raw Score,Slot 2,95.0,68,30,21,25
+2021,Estimated Raw Score,Slot 3,95.0,63,29,18,22
+2021,Estimated Raw Score,Slot 1,90.0,46.5,25,17,21
+2021,Estimated Raw Score,Slot 2,90.0,56,25,17,21
+2021,Estimated Raw Score,Slot 3,90.0,52,24,14,19
+2021,Estimated Raw Score,Slot 1,85.0,41.5,22,17,22
+2021,Estimated Raw Score,Slot 2,85.0,49,22,15,17
+2021,Estimated Raw Score,Slot 3,85.0,45,22,12,16
+2021,Estimated Raw Score,Slot 1,80.0,36.5,20,13,14
+2021,Estimated Raw Score,Slot 2,80.0,42,20,13,14
+2021,Estimated Raw Score,Slot 3,80.0,39,20,10,13
+2020,Estimated Raw Score,Consolidated,99.0,110.83,45.33,32.67,43.67
+2020,Estimated Raw Score,Consolidated,95.0,93.33,34.67,25.67,31.67
+2020,Estimated Raw Score,Consolidated,90.0,79.33,28.00,20.00,25.33
+2020,Estimated Raw Score,Slot 1,99.0,112.5,46.5,35,45
+2020,Estimated Raw Score,Slot 2,99.0,115,43,33.5,43
+2020,Estimated Raw Score,Slot 3,99.0,105,46.5,29.5,43
+2020,Estimated Raw Score,Slot 1,95.0,100,35,28.5,35
+2020,Estimated Raw Score,Slot 2,95.0,90,32.5,26.5,30
+2020,Estimated Raw Score,Slot 3,95.0,90,36.5,22,30
+2020,Estimated Raw Score,Slot 1,90.0,85,28,22,28
+2020,Estimated Raw Score,Slot 2,90.0,78,26,20,24
+2020,Estimated Raw Score,Slot 3,90.0,75,30,18,24
+2019,Estimated Raw Score,Consolidated,99.5,170,68,57,69
+2019,Estimated Raw Score,Consolidated,99.0,160.5,68,49,60
+2019,Estimated Raw Score,Consolidated,95.0,125,56,37.5,48.5
+2019,Estimated Raw Score,Consolidated,90.0,100,46.5,33,38.5
+2019,Estimated Raw Score,Consolidated,85.0,96.5,49.5,26.5,36.5
+2019,Estimated Raw Score,Consolidated,80.0,75,30,24,23
+2018,Estimated Raw Score,Consolidated,99.0,147.50,60.50,49.00,47.75
+2018,Estimated Raw Score,Consolidated,90.0,101.25,44.75,28.25,27.25
+2018,Estimated Raw Score,Slot 1,99.5,160,68,55,50
+2018,Estimated Raw Score,Slot 1,99.0,152.5,62,47,46.5
+2018,Estimated Raw Score,Slot 2,99.0,142.5,59,51,49
+2018,Estimated Raw Score,Slot 1,95.0,120,50,35,35
+2018,Estimated Raw Score,Slot 1,90.0,105,44,24,25
+2018,Estimated Raw Score,Slot 2,90.0,97.5,45.5,32.5,29.5
+2017,Estimated Raw Score,Consolidated,99.0,155.00,55.00,36.75,62.50
+2017,Estimated Raw Score,Consolidated,98.0,142.50,52.50,38.00,62.50
+2017,Estimated Raw Score,Consolidated,95.0,138.75,47.50,33.25,57.50
+2017,Estimated Raw Score,Consolidated,90.0,127.50,42.50,27.75,50.00
+2017,Estimated Raw Score,Slot 1,99.0,152.5,57.5,33.5,62.5
+2017,Estimated Raw Score,Slot 2,99.0,157.5,52.5,40,62.5
+2017,Estimated Raw Score,Slot 1,98.0,140,52.5,33.5,62.5
+2017,Estimated Raw Score,Slot 2,98.0,145,52.5,42.5,62.5
+2017,Estimated Raw Score,Slot 1,95.0,135,47.5,29,57.5
+2017,Estimated Raw Score,Slot 2,95.0,142.5,47.5,37.5,57.5
+2017,Estimated Raw Score,Slot 1,90.0,125,42.5,26.5,50
+2017,Estimated Raw Score,Slot 2,90.0,130,42.5,29,50

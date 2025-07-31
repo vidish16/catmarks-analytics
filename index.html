@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CatMarks Analytics - CAT Examination Cutoffs Analysis</title>
+    <meta name="description" content="Interactive visualization of CAT examination marks vs percentile data from 2017 to 2025 with section-wise analysis and comprehensive cutoff information">
+  </head>
+  <body>
+    <div id="app">
+      <header class="header">
+        <div class="header-content">
+          <img src="/logo.png" alt="CatMarks Analytics Logo" class="logo" />
+          <div class="header-text">
+            <h1>CatMarks Analytics</h1>
+            <p>CAT Examination Cutoffs & Percentile Analysis (2017-2024)</p>
+          </div>
+        </div>
+      </header>
+      
+      <main class="main">
+        <div class="controls">
+          <div class="year-selector">
+            <label for="year-select">Select Year:</label>
+            <select id="year-select">
+              <option value="2024">2024</option>
+              <option value="2023">2023</option>
+              <option value="2022">2022</option>
+              <option value="2021">2021</option>
+              <option value="2020">2020</option>
+              <option value="2019">2019</option>
+              <option value="2018">2018</option>
+              <option value="2017">2017</option>
+            </select>
+          </div>
+          
+          <div class="data-type-selector">
+            <label for="data-type-select">Data Type:</label>
+            <select id="data-type-select">
+              <option value="scaledScore">Scaled Score</option>
+              <option value="estimatedRawScore">Estimated Raw Score</option>
+            </select>
+          </div>
+          
+          <div class="slot-selector">
+            <label for="slot-select">Slot:</label>
+            <select id="slot-select">
+              <option value="consolidated">Consolidated</option>
+            </select>
+          </div>
+          
+          <div class="section-selector">
+            <label for="section-select">Select Section:</label>
+            <select id="section-select">
+              <option value="overall">Overall</option>
+              <option value="varc">VARC</option>
+              <option value="lrdi">LRDI</option>
+              <option value="qa">QA</option>
+              <option value="all-sections">All Sections</option>
+            </select>
+          </div>
+        </div>
+        
+        <div class="data-table-container">
+          <div id="max-marks-info" class="max-marks-display">
+            <!-- Maximum marks info will be displayed here -->
+          </div>
+          <h2 id="table-title">CAT 2024 - Overall Marks vs Percentile</h2>
+          <div class="table-wrapper">
+            <table id="data-table">
+              <thead>
+                <tr>
+                  <th>Percentile</th>
+                  <th>Marks</th>
+                </tr>
+              </thead>
+              <tbody id="table-body">
+                <!-- Data will be populated by JavaScript -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+        
+        <div class="chart-container">
+          <canvas id="cutoff-chart"></canvas>
+        </div>
+        
+        <div class="info-panel">
+          <div id="hover-info" class="hover-info">
+            <p>Hover over data points to see detailed information</p>
+          </div>
+        </div>
+      </main>
+    </div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
